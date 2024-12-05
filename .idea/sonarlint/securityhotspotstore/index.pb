@@ -17,3 +17,7 @@ N
 contracts/task-allocation.clar,e/e/ee1e5143d3ea0af396928ee28320074b5ede5d63
 M
 tests/task-allocation.test.ts,4/7/4764a1240f7787629c786f50b45a6c0231bab1f5
+K
+tests/reward-system.test.ts,e/7/e7a302ee2b05b3bd561e91d0dc9ac00561ec036e
+L
+contracts/reward-system.clar,4/d/4d17c80908c6e2c5a446b328ccf099f4dbae42d9
