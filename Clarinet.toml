@@ -1,0 +1,39 @@
+[project]
+name = 'Decentralized-Autonomous-Drone-Swarm-Coordination-System'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.drone-registry]
+path = 'contracts/drone-registry.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.mission-control]
+path = 'contracts/mission-control.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.reward-system]
+path = 'contracts/reward-system.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.swarm-behavior_]
+path = 'contracts/swarm-behavior_.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.task-allocation]
+path = 'contracts/task-allocation.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
