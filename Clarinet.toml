@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/swarm-behavior_.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.task-allocation]
+path = 'contracts/task-allocation.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
