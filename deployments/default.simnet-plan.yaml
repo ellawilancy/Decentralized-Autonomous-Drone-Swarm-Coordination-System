@@ -55,6 +55,11 @@ plan:
             path: contracts/drone-registry.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: mission-control
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/mission-control.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: swarm-behavior_
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/swarm-behavior_.clar

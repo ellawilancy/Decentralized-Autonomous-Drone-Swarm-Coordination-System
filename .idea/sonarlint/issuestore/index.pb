@@ -9,3 +9,7 @@ N
 contracts/swarm-behavior_.clar,c/a/ca6533ea60b2a53021d9fbdfa4b427664d8e52a4
 M
 tests/swarm-behavior_.test.ts,4/c/4ceced5564b5a70d5c4b09691f525f4f5fcc979f
+N
+contracts/mission-control.clar,3/1/3108a7cb0763e5ceb563737656748c1fb2c65573
+M
+tests/mission-control.test.ts,f/e/fef3d03f1ee5f702662cde61cb79065866eb1349

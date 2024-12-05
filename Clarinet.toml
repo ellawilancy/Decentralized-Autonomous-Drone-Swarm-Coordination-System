@@ -10,6 +10,11 @@ path = 'contracts/drone-registry.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.mission-control]
+path = 'contracts/mission-control.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.swarm-behavior_]
 path = 'contracts/swarm-behavior_.clar'
 clarity_version = 2
